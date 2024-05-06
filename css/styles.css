@@ -1,0 +1,110 @@
+
+nav{
+    display: flex;
+    justify-content: space-around;
+   font-size: medium;
+   border: solid black 2px;
+   background-color: black;
+}
+.m1{
+    background-color: red;
+    text-shadow: 2px;
+    text-decoration: none;
+
+}
+.m2{
+    text-decoration: none;
+    color: white;
+}
+.m3{
+    color: white;
+    text-decoration: none;
+}
+
+.m4{
+    color: white;
+    text-decoration: none;
+}
+.m5{
+    color: white;
+    text-decoration: none;
+}
+.m6{
+    color: white;
+    text-decoration: none;
+}
+.m7{
+    color: white;
+    text-decoration: none;
+}
+.m8{
+    color: white;
+    text-decoration: none;
+}
+.m9{
+    color: white;
+    text-decoration: none;
+}
+.m10{
+    color: white;
+    text-decoration: none;
+}
+.m11{
+    color: white;
+    text-decoration: none;
+}
+.m12{
+    color: white;
+    text-decoration: none;
+}
+.m14{
+    color: white;
+    text-decoration: none;
+}
+.m15{
+    color: white;
+    text-decoration: none;
+}
+.m16{
+    color: white;
+    text-decoration: none;
+}
+.m17{
+    border: solid 1px white;
+    color: white;
+    text-decoration: none;
+}
+.m18{
+    color: white;
+    text-decoration: none;
+}
+
+aside div {
+    display: flex;
+    justify-content: space-around;
+   font-size: medium;
+   text-decoration: none;
+}
+
+.main-container{
+    display: flex;
+    height: 100%;
+    width: 100%
+
+}
+.image-container{
+    position: relative;
+}
+.box1{
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+.box2{
+    height: 70%;
+    width: 40%;
+}
+.box3{
+    height: 40%;
+    width: 40%;
+}
